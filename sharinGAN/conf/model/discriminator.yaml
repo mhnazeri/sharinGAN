@@ -1,0 +1,2 @@
+nc: 3 # number of color channels in the input images. For color images this is 3
+ndf: 64 # sets the depth of feature maps propagated through the discriminator
