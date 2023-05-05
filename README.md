@@ -1,4 +1,4 @@
-This is the code accompanying [this article](https://mhnazeri.now.sh/posts/sharinGAN/)
+This is the code accompanying [this article](https://mhnazeri.github.io/blog/2020/sharinGAN/)
 
 A Generative Adversarial Network (GAN) to generate sharingans called sharinGAN. If you want to know more about sharingan please read [this article](https://naruto.fandom.com/wiki/Sharingan).
 
